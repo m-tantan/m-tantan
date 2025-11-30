@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-tantan&hide_progress=true&theme=tokyonight)
+
+Feel free to checkout [yonatanmanor.dev](https://yonatanmanor.dev)
 <!--
 **m-tantan/m-tantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
