@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Feel free to checkout [yonatanmanor.dev](https://yonatanmanor.dev)
 <!--
 **m-tantan/m-tantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
